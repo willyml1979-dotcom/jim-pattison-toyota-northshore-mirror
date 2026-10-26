@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Northshore",
-  "generated_at": "2026-10-25T19:16:06",
-  "vehicle_count": 87,
+  "generated_at": "2026-10-25T19:24:47",
+  "vehicle_count": 86,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -564,17 +564,6 @@
       "model": "GR Corolla",
       "condition": "new",
       "price": 60115.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota RAV4 Plug-in Hybrid ",
-      "vin": "JTM7ERAV4TJ036979",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/eb41456656ff.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4 Plug-in Hybrid",
-      "condition": "new",
-      "price": 62018.0,
       "price_currency": "CAD"
     },
     {
