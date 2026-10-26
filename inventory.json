@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Northshore",
-  "generated_at": "2026-10-26T04:26:07",
-  "vehicle_count": 86,
+  "generated_at": "2026-10-26T04:36:24",
+  "vehicle_count": 85,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -773,17 +773,6 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 48008.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
-      "vin": "JTDACACU5V3083558",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/09dc2f863189.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43678.0,
       "price_currency": "CAD"
     },
     {
