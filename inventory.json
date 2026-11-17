@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Northshore",
-  "generated_at": "2026-11-16T22:53:16",
-  "vehicle_count": 66,
+  "generated_at": "2026-11-16T23:03:47",
+  "vehicle_count": 71,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -259,17 +259,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota 4Runner ",
-      "vin": "JTEVA5BR8T5167754",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/58e4a21384ec.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "new",
-      "price": 68130.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota bZ Woodland Premium Package AWD",
       "vin": "JTMBGAHBXTY619873",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/9f26059a5689.html",
@@ -303,6 +292,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Camry ",
+      "vin": "4T1DBADK4TU073197",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/07e58f52db03.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Camry",
+      "condition": "new",
+      "price": 48778.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Corolla Cross ",
       "vin": "7MUAAABG3TV206096",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/b486ea6633b6.html",
@@ -311,17 +311,6 @@
       "model": "Corolla Cross",
       "condition": "new",
       "price": 32898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross L FWD",
-      "vin": "7MUAAAAGXTV226671",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/e696c5ddc82b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 31498.0,
       "price_currency": "CAD"
     },
     {
@@ -347,6 +336,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Crown Signia ",
+      "vin": "JTDACAAJ4T3060343",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/e1551e43db9a.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Crown Signia",
+      "condition": "new",
+      "price": 63648.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota GR Corolla Manual",
       "vin": "SB1ADADE3TE002230",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/96598ae0a8eb.html",
@@ -358,14 +358,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 Plug-in Hybrid ",
-      "vin": "JTM7ERAVXTD031929",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/0bba5cd0dea0.html",
+      "name": "2026 Toyota GR Corolla ",
+      "vin": "SB1ADADE2TE004339",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/0fc19e3f5212.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "RAV4 Plug-in Hybrid",
+      "model": "GR Corolla",
       "condition": "new",
-      "price": 62923.0,
+      "price": 62435.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Grand Highlander Limited",
+      "vin": "5TDAAAB5XTS154359",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/2de55f136629.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Grand Highlander",
+      "condition": "new",
+      "price": 61938.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Grand Highlander ",
+      "vin": "5TDAAAB5XTS156130",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/51ff8f539143.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Grand Highlander",
+      "condition": "new",
+      "price": 62288.0,
       "price_currency": "CAD"
     },
     {
@@ -377,6 +399,72 @@
       "model": "Sienna",
       "condition": "new",
       "price": 58138.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna ",
+      "vin": "5TDGRKEC1TS347163",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/9f2c43364f7b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 58138.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna ",
+      "vin": "5TDGRKEC0TS347557",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/63afc933de8f.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 58138.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna ",
+      "vin": "5TDGRKEC6TS351516",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/16272f17e4da.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 58138.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna ",
+      "vin": "5TDGSKFC7TS297209",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/76e5e40b777b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 70423.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna XSE",
+      "vin": "5TDGSKFC3TS297028",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/56422bd60a4d.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 65149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna XSE",
+      "vin": "5TDGSKFC2TS298705",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/62c031cc1fd1.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 65149.0,
       "price_currency": "CAD"
     },
     {
@@ -399,39 +487,6 @@
       "model": "Tacoma",
       "condition": "new",
       "price": 52072.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma ",
-      "vin": "3TYLC5LN6TT078040",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/177c37df8bba.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 69898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma 4x4 Double Cab Auto SB",
-      "vin": "3TYLB5JN8TT150037",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/574dcc1f6669.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 51563.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma ",
-      "vin": "3TYLB5JN2TT155413",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/7d85b19d29ac.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 51563.0,
       "price_currency": "CAD"
     },
     {
@@ -479,31 +534,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Tundra ",
+      "vin": "5TFLA5EC4TX063849",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/f51ec3dc1dc3.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new",
+      "price": 67623.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota bZ Limited AWD",
       "vin": "JTMADAFB1VA015504",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/6e882e7f491b.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 64353.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ ",
-      "vin": "JTMAFAEB0VJ032709",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/625841893b0d.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 48653.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ Limited AWD",
-      "vin": "JTMADAFB6VA015658",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/2c4547dcca8d.html",
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
@@ -523,14 +567,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR ",
-      "vin": "JTMAAAAD7VJ032406",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/1990785b7a8e.html",
+      "name": "2027 Toyota bZ ",
+      "vin": "JTMAFAEB7VA015518",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/ad5390bf90e0.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "C-HR",
+      "model": "bZ",
       "condition": "new",
-      "price": 52963.0,
+      "price": 49003.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla ",
+      "vin": "5YFB4MDEXVP523484",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/9d7c561ffae3.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new",
+      "price": 28018.0,
       "price_currency": "CAD"
     },
     {
@@ -564,6 +619,17 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 48008.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "vin": "JTDACACU5V3083558",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/09dc2f863189.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43678.0,
       "price_currency": "CAD"
     },
     {
@@ -634,17 +700,6 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid XSE Auto",
-      "vin": "JTDACACU6V3087103",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/6e60b9861b33.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 48358.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid XSE Auto",
       "vin": "JTDACACU0V3086965",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/8fbb89e7a57b.html",
       "year": 2027,
@@ -700,8 +755,8 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid ",
-      "vin": "JTDACACU7V3083190",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/62d36a7dbb35.html",
+      "vin": "JTDACACU7V3086445",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/094747aa6cde.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Plug-In Hybrid",
@@ -710,14 +765,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid ",
-      "vin": "JTDACACU7V3086445",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/094747aa6cde.html",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU6V3089126",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/e76ba82cb27b.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "Prius Plug-In Hybrid",
+      "model": "Prius Prime",
       "condition": "new",
-      "price": 48008.0,
+      "price": 43678.0,
       "price_currency": "CAD"
     },
     {
