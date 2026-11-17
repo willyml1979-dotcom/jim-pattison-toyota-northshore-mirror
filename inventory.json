@@ -1,30 +1,19 @@
 {
   "dealership": "Jim Pattison Toyota Northshore",
-  "generated_at": "2026-10-26T04:36:24",
-  "vehicle_count": 85,
+  "generated_at": "2026-11-16T22:53:16",
+  "vehicle_count": 66,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2013 Toyota Corolla Sedan ",
-      "vin": "2T1BU4EE9DC053896",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/a540066873b5.html",
-      "year": 2013,
+      "name": "2010 Toyota Corolla S",
+      "vin": "2T1BU4EE6AC300223",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/fb4eb60b59d9.html",
+      "year": 2010,
       "make": "Toyota",
-      "model": "Corolla Sedan",
+      "model": "Corolla",
       "condition": "used",
-      "price": 12995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Dodge Grand Caravan Passenger Van ",
-      "vin": "2C4RDGDG2GR216525",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/10b6d823a0f5.html",
-      "year": 2016,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "condition": "used",
-      "price": 8995.0,
+      "price": 10995.0,
       "price_currency": "CAD"
     },
     {
@@ -50,17 +39,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Lexus NX ",
-      "vin": "JTJBARBZ5H2107516",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/6bd28a1e1eac.html",
-      "year": 2017,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 25995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Mercedes-Benz GLC ",
       "vin": "WDC0G4KB4HF138869",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/8676e9921e9a.html",
@@ -69,17 +47,6 @@
       "model": "GLC",
       "condition": "used",
       "price": 22995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Toyota RAV4 Hybrid ",
-      "vin": "JTMDJREV2HD103996",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/cfba6ba5bb3e.html",
-      "year": 2017,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid",
-      "condition": "used",
-      "price": 27995.0,
       "price_currency": "CAD"
     },
     {
@@ -94,17 +61,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volvo XC90 ",
-      "vin": "YV4A22PL9H1152467",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/a1c5276b0b88.html",
-      "year": 2017,
-      "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 20995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Volkswagen Golf R ",
       "vin": "WVWVF7AU4JW298288",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/a48706693168.html",
@@ -113,39 +69,6 @@
       "model": "Golf R",
       "condition": "used",
       "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Fusion Hybrid Titanium Hybrid",
-      "vin": "3FA6P0RU7KR156265",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/16db46ce6549.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Fusion Hybrid",
-      "condition": "used",
-      "price": 17995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Subaru Ascent 7 Passenger AWD with 260hp Boxer Engine",
-      "vin": "4S4WMAAD1K3420711",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/96e733abda73.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Toyota Yaris Hatchback LE",
-      "vin": "VNKKTUD3XKA104477",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/6402dfda853a.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Yaris Hatchback LE",
-      "condition": "used",
-      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
@@ -204,17 +127,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota RAV4 Hybrid ",
-      "vin": "2T3RWRFV0MW125238",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/f40aa238cb62.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Lexus RX F Sport",
       "vin": "2T2BAMCA0PC002974",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/e465129228f8.html",
@@ -223,17 +135,6 @@
       "model": "RX",
       "condition": "used",
       "price": 53995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mercedes-Benz GLE AMG Sport Premium Pkg w 3rd Row",
-      "vin": "4JGFB4KE1PA905027",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/9182fd3ea142.html",
-      "year": 2023,
-      "make": "Mercedes-Benz",
-      "model": "GLE",
-      "condition": "used",
-      "price": 57995.0,
       "price_currency": "CAD"
     },
     {
@@ -248,17 +149,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota GR Corolla Circuit Special Limited Edition - 1 of 181",
-      "vin": "JTNABAAE4PA005393",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/92fc7456a84a.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "GR Corolla",
-      "condition": "used",
-      "price": 46995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Toyota Highlander XLE AWD",
       "vin": "5TDKDRBH1PS048490",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/ed71e60576bf.html",
@@ -267,39 +157,6 @@
       "model": "Highlander",
       "condition": "used",
       "price": 46905.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota RAV4 Limited AWD",
-      "vin": "2T3D1RFV9PW387787",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/ae7241536cb9.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Tacoma SR5",
-      "vin": "3TYDZ5BN5PT026442",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/a5a86dc839c3.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 46995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota Tundra Capstone Hybrid",
-      "vin": "5TFVC5DB9PX038270",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/ae232a38055c.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 66995.0,
       "price_currency": "CAD"
     },
     {
@@ -325,17 +182,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota Tacoma Limited Hybrid",
-      "vin": "3TYLC5LN6RT004223",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/629748e4955c.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 60995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Toyota Crown Platinum",
       "vin": "JTDAFAAFXR3009179",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/12b3f75fafcf.html",
@@ -358,39 +204,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Prius Plug-In Hybrid Plug-in SE",
-      "vin": "JTDACACU4S3050711",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/d5ae97d3c990.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Prius Prime Plug-In",
-      "condition": "used",
-      "price": 33905.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 Hybrid Hybrid Limited",
-      "vin": "2T3DWRFV7SW284863",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/625eb8a4125d.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid Hybrid",
-      "condition": "used",
-      "price": 52995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 XLE AWD",
-      "vin": "2T3R1RFV0SW515283",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/b8e2c0438b7d.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota Sienna XLE",
       "vin": "5TDGRKEC5SS242267",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/1f02ae9c496c.html",
@@ -399,17 +212,6 @@
       "model": "Sienna",
       "condition": "used",
       "price": 53995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota Tacoma Limited",
-      "vin": "3TYLC5LN6ST020055",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/b0a576b82efc.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 64995.0,
       "price_currency": "CAD"
     },
     {
@@ -443,17 +245,6 @@
       "model": "Corolla Hatchback",
       "condition": "used",
       "price": 27995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Prius Plug-In Hybrid 70 km EV range plus 52mpg Hybrid",
-      "vin": "JTDACACU0T3056734",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/b330735f6232.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "used",
-      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
