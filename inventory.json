@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Northshore",
-  "generated_at": "2026-11-17T22:59:20",
-  "vehicle_count": 81,
+  "generated_at": "2026-11-18T05:54:48",
+  "vehicle_count": 82,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -557,17 +557,6 @@
     },
     {
       "name": "2026 Toyota Sienna XSE",
-      "vin": "5TDGSKFC2TS298705",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/62c031cc1fd1.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 65149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Sienna XSE",
       "vin": "5TDGSKFC0TS298217",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/5aba986034ea.html",
       "year": 2026,
@@ -677,14 +666,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Hybrid ",
-      "vin": "JTDBDMHE7V3041445",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/cf8677a6774f.html",
+      "name": "2027 Toyota Corolla Hatchback ",
+      "vin": "JTNK4MBE4V3279094",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/80ee1f9694d9.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla Hybrid",
+      "model": "Corolla Hatchback",
       "condition": "new",
-      "price": 34873.0,
+      "price": 35246.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla Hatchback ",
+      "vin": "JTNK4MBE0V3279061",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/53ec9b2f309d.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla Hatchback",
+      "condition": "new",
+      "price": 30166.0,
       "price_currency": "CAD"
     },
     {
@@ -878,6 +878,17 @@
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU6V3089126",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/e76ba82cb27b.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43678.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU9V3089105",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/b97948b4819f.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
