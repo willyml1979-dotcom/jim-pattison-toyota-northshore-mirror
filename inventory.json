@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Northshore",
-  "generated_at": "2026-11-16T23:03:47",
-  "vehicle_count": 71,
+  "generated_at": "2026-11-17T20:31:36",
+  "vehicle_count": 72,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -277,7 +277,7 @@
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 57340.0,
+      "price": 56814.0,
       "price_currency": "CAD"
     },
     {
@@ -468,6 +468,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Sienna XSE",
+      "vin": "5TDGSKFC0TS298217",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/5aba986034ea.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 65149.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Tacoma Tacoma Double Cab AT",
       "vin": "3TYLB5JN0TT130395",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/63182a88e532.html",
@@ -534,17 +545,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra ",
-      "vin": "5TFLA5EC4TX063849",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/f51ec3dc1dc3.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 67623.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota bZ Limited AWD",
       "vin": "JTMADAFB1VA015504",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/6e882e7f491b.html",
@@ -575,6 +575,17 @@
       "model": "bZ",
       "condition": "new",
       "price": 49003.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla Hybrid ",
+      "vin": "JTDBDMHE7V3041445",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/new/cf8677a6774f.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla Hybrid",
+      "condition": "new",
+      "price": 34873.0,
       "price_currency": "CAD"
     },
     {
