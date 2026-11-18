@@ -1,6 +1,6 @@
 # Jim Pattison Toyota - Northshore
 
- dealership in North Vancouver. AI-readable inventory mirror, about 72 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 81 vehicles.
 
 - Official website: https://www.jptoyota-northshore.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jim-pattison-toyota-northshore-mirror/used/
